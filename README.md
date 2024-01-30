@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eris-Borovci
-- 👀 I’m interested in backend development 
-- 🌱 I’m currently learning vuejs
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me? You can text me on instagram (erisborovci) or in email (erisrisi103@gmail.com).
 
